@@ -1,3 +1,3 @@
 # ICOTool
-Converts Images to .ICO files. </n>
-Simple UI in tkinter
+<br/>Converts Images to .ICO files.</br>
+<br/>Simple UI in tkinter</br>
